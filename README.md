@@ -3,7 +3,7 @@
 <h2 style="text-align:center;">Ground Rules</h2>
 
 - Remember the golden rule: you aren't my boss, you're not entitled to anything. Demands will be ignored. Polite requests will be entertained.
-- Don't report any issues you encounter using this version to SnazzyPanda, or the original [Limo repository](https://github.com/limo-app/limo) (unless you have verified it affects that project as well).
+- Don't report any issues you encounter using this version to upstream ([SnazzyPanda](https://github.com/SnazzyPanda/limo) or [Limo](https://github.com/limo-app/limo), unless you have verified it affects those projects as well).
 - You are free to open issues/pull-requests.
 - I have zero interest or experience in C++. All my changes are vibe coded. If that's a problem for you, fork the original and do it yourself.
 - I don't use Arch (btw). I don't intend to support installation via AUR.
